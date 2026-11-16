@@ -1,0 +1,94 @@
+{
+  "version": "v1.0.0",
+  "modeDisplayName": "도전모드",
+  "homeUrl": "https://hanjakey.hdmedi.kr/?from=game_end",
+  "playStageCount": 1,
+  "startCountdownSec": 3,
+  "simultaneousWindowMs": 300,
+  "stageTimeoutMultiplier": 1.5,
+  "hintToAiCompleteDelaySec": 8.0,
+  "toastDurationMs": 1500,
+  "scorePopupDurationMs": 500,
+  "reduceMotion": false,
+  "soundEnabled": true,
+  "showRemainingTime": false,
+  "hanjaScale": 1.0,
+  "timeBudget": {
+    "perCompositeSec": 4.0,
+    "perShapeSec": 5.6
+  },
+  "grid": {
+    "columns": 6,
+    "maxRows": 3
+  },
+  "similarCardLayout": {
+    "easy": "separate",
+    "normal": "random",
+    "hard": "cluster",
+    "veryHard": "cluster"
+  },
+  "courseNames": {
+    "1": "과정 1"
+  },
+  "texts": {
+    "gameTitle": "로고스 크로니클",
+    "titleSubtitle": "1인 vs AI",
+    "startButton": "시작하기 (약 2분)",
+    "rulesButton": "규칙 설명 보기",
+    "registerTitle": "학회 등록 접수",
+    "registerDesc": "연성가로 등록할 이름을 정해 주세요.",
+    "registerNote": "이름은 이 기기에만 저장돼요.",
+    "titleFooter": "한자키 · 게임 속 설정이며 실제 시험·자격과 무관합니다",
+    "rules": "· 가운데 한자의 재료 카드를 격자에서 집어 모아요.\n· 재료가 다 모이면 바로 연성되고, 먼저 완성한 쪽이 재료 수만큼 점수를 얻어요.\n· 내 손패 칸에 담긴 카드를 다시 누르거나 바닥 격자의 해당 카드를 다시 누르면 취소돼요. 벌점은 없어요.\n· 재료를 잘못 모으면 손패가 찬 채로 멈춰요. 카드를 눌러 취소한 뒤 다시 집어요.\n· 같은 글자가 여러 장이면 어느 장을 집어도 돼요.\n· 스테이지가 끝나면 최종 점수로 승패를 가려요."
+  },
+  "difficultyLabels": {
+    "easy": "쉬움",
+    "normal": "보통",
+    "hard": "어려움",
+    "veryHard": "매우 어려움"
+  },
+  "difficultyNames": {
+    "easy": "견습 연성가",
+    "normal": "정식 연성가",
+    "hard": "숙련 연성가",
+    "veryHard": "명인 연성가"
+  },
+  "aiDifficulty": {
+    "easy": {
+      "speedMultiplier": 0.8,
+      "baseSec": 5.1,
+      "perCardSec": 7.0,
+      "varianceRatio": 0.3,
+      "mistakeProb": 0.25,
+      "mistakePenaltySec": 2.5,
+      "desc": "AI가 천천히 풀어요"
+    },
+    "normal": {
+      "speedMultiplier": 1.0,
+      "baseSec": 4.0,
+      "perCardSec": 5.6,
+      "varianceRatio": 0.3,
+      "mistakeProb": 0.15,
+      "mistakePenaltySec": 2.0,
+      "desc": "기본 속도로 대결해요"
+    },
+    "hard": {
+      "speedMultiplier": 1.1,
+      "baseSec": 3.7,
+      "perCardSec": 5.1,
+      "varianceRatio": 0.25,
+      "mistakeProb": 0.08,
+      "mistakePenaltySec": 1.5,
+      "desc": "AI가 빠르고 정확해요"
+    },
+    "veryHard": {
+      "speedMultiplier": 1.2,
+      "baseSec": 3.4,
+      "perCardSec": 4.6,
+      "varianceRatio": 0.2,
+      "mistakeProb": 0.03,
+      "mistakePenaltySec": 1.2,
+      "desc": "최고 속도로 연성해요"
+    }
+  }
+}

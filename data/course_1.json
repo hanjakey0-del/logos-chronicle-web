@@ -1,0 +1,2685 @@
+{
+  "courseId": 1,
+  "sourceFile": "course_1.xlsx",
+  "meta": {
+    "stageCount": 10,
+    "compositeCount": 62,
+    "shapeCount": 151,
+    "shapeKinds": 60,
+    "maxMaterials": 4,
+    "totalScore": 151
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "part": 1,
+      "composites": [
+        {
+          "id": "C001",
+          "char": "力",
+          "reading": "힘 력, 역",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-1",
+          "materials": [
+            "M001",
+            "M002"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "목",
+          "similarGroup": "ㄱ"
+        },
+        {
+          "id": "C002",
+          "char": "卜",
+          "reading": "점 복",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-1",
+          "materials": [
+            "M003",
+            "M004"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "화",
+          "similarGroup": "丨"
+        },
+        {
+          "id": "C003",
+          "char": "二",
+          "reading": "둘 이",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-2",
+          "materials": [
+            "M005",
+            "M006"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "화",
+          "similarGroup": "一"
+        },
+        {
+          "id": "C004",
+          "char": "人",
+          "reading": "사람 인",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-2",
+          "materials": [
+            "M007",
+            "M008"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "토",
+          "similarGroup": "丿"
+        },
+        {
+          "id": "C005",
+          "char": "爻",
+          "reading": "점괘 효",
+          "strokes": 4,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-2",
+          "materials": [
+            "M009",
+            "M010"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "수",
+          "similarGroup": "爻"
+        },
+        {
+          "id": "C006",
+          "char": "八",
+          "reading": "여덟 팔",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-3",
+          "materials": [
+            "M011",
+            "M012"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "목",
+          "similarGroup": "乁"
+        },
+        {
+          "id": "C007",
+          "char": "十",
+          "reading": "열 십",
+          "strokes": 2,
+          "stage": 1,
+          "part": 1,
+          "subunit": "S1-3",
+          "materials": [
+            "M013",
+            "M014"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "토",
+          "similarGroup": "十"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M001",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 1,
+          "subunit": "S1-1",
+          "element": "목",
+          "similarGroup": "ㄱ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M002",
+          "char": "ㄱ",
+          "name": "기역",
+          "stage": 1,
+          "subunit": "S1-1",
+          "element": "목",
+          "similarGroup": "ㄱ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M003",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 1,
+          "subunit": "S1-1",
+          "element": "화",
+          "similarGroup": "丨",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M004",
+          "char": "丶",
+          "name": "점 주",
+          "stage": 1,
+          "subunit": "S1-1",
+          "element": "화",
+          "similarGroup": "丨",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M005",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "화",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M006",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "화",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M007",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "토",
+          "similarGroup": "丿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M008",
+          "char": "乁",
+          "name": "흐를 이",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "토",
+          "similarGroup": "丿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M009",
+          "char": "乂",
+          "name": "벨 예",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M010",
+          "char": "乂",
+          "name": "벨 예",
+          "stage": 1,
+          "subunit": "S1-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M011",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 1,
+          "subunit": "S1-3",
+          "element": "목",
+          "similarGroup": "乁",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M012",
+          "char": "乁",
+          "name": "흐를 이",
+          "stage": 1,
+          "subunit": "S1-3",
+          "element": "목",
+          "similarGroup": "乁",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M013",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 1,
+          "subunit": "S1-3",
+          "element": "토",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M014",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 1,
+          "subunit": "S1-3",
+          "element": "토",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "part": 1,
+      "composites": [
+        {
+          "id": "C008",
+          "char": "九",
+          "reading": "아홉 구",
+          "strokes": 2,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-1",
+          "materials": [
+            "M015",
+            "M016"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "금",
+          "similarGroup": "丿"
+        },
+        {
+          "id": "C009",
+          "char": "七",
+          "reading": "일곱 칠",
+          "strokes": 2,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-1",
+          "materials": [
+            "M017",
+            "M018"
+          ],
+          "score": 2,
+          "difficulty": 4,
+          "element": "화",
+          "similarGroup": "一"
+        },
+        {
+          "id": "C010",
+          "char": "兀",
+          "reading": "우뚝할 올",
+          "strokes": 3,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-2",
+          "materials": [
+            "M019",
+            "M020"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "금",
+          "similarGroup": "儿"
+        },
+        {
+          "id": "C011",
+          "char": "亼",
+          "reading": "모일 집",
+          "strokes": 3,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-2",
+          "materials": [
+            "M021",
+            "M022"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "금",
+          "similarGroup": "人"
+        },
+        {
+          "id": "C012",
+          "char": "攵",
+          "reading": "칠 복",
+          "strokes": 4,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-3",
+          "materials": [
+            "M023",
+            "M024"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "금",
+          "similarGroup": "ㅅ"
+        },
+        {
+          "id": "C013",
+          "char": "山",
+          "reading": "산 산",
+          "strokes": 3,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-3",
+          "materials": [
+            "M025",
+            "M026"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "토",
+          "similarGroup": "丨"
+        },
+        {
+          "id": "C014",
+          "char": "円",
+          "reading": "둥글 엔 / 화폐단위 엔",
+          "strokes": 4,
+          "stage": 2,
+          "part": 1,
+          "subunit": "S2-3",
+          "materials": [
+            "M027",
+            "M028"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "금",
+          "similarGroup": "冂"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M015",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 2,
+          "subunit": "S2-1",
+          "element": "금",
+          "similarGroup": "丿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M016",
+          "char": "乙",
+          "name": "새 을",
+          "stage": 2,
+          "subunit": "S2-1",
+          "element": "금",
+          "similarGroup": "丿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M017",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 2,
+          "subunit": "S2-1",
+          "element": "화",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M018",
+          "char": "ㄴ",
+          "name": "니은",
+          "stage": 2,
+          "subunit": "S2-1",
+          "element": "화",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M019",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 2,
+          "subunit": "S2-2",
+          "element": "금",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M020",
+          "char": "儿",
+          "name": "어진 사람 인",
+          "stage": 2,
+          "subunit": "S2-2",
+          "element": "금",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M021",
+          "char": "人",
+          "name": "사람 인",
+          "stage": 2,
+          "subunit": "S2-2",
+          "element": "금",
+          "similarGroup": "人",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M022",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 2,
+          "subunit": "S2-2",
+          "element": "금",
+          "similarGroup": "人",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M023",
+          "char": "ㅅ",
+          "name": "시옷",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "금",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M024",
+          "char": "乂",
+          "name": "벨 예",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "금",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M025",
+          "char": "凵",
+          "name": "구덩이 감",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "토",
+          "similarGroup": "丨",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M026",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "토",
+          "similarGroup": "丨",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M027",
+          "char": "冂",
+          "name": "멀 경",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "금",
+          "similarGroup": "冂",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M028",
+          "char": "亠",
+          "name": "머리 두",
+          "stage": 2,
+          "subunit": "S2-3",
+          "element": "금",
+          "similarGroup": "冂",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "part": 2,
+      "composites": [
+        {
+          "id": "C015",
+          "char": "日",
+          "reading": "해 일, 날 일",
+          "strokes": 4,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-1",
+          "materials": [
+            "M029",
+            "M030"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "화",
+          "similarGroup": "囗"
+        },
+        {
+          "id": "C016",
+          "char": "曰",
+          "reading": "말할 왈",
+          "strokes": 4,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-1",
+          "materials": [
+            "M031",
+            "M032"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "금",
+          "similarGroup": "口"
+        },
+        {
+          "id": "C017",
+          "char": "中",
+          "reading": "가운데 중",
+          "strokes": 4,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-2",
+          "materials": [
+            "M033",
+            "M034"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "토",
+          "similarGroup": "口"
+        },
+        {
+          "id": "C018",
+          "char": "火",
+          "reading": "불 화",
+          "strokes": 4,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-2",
+          "materials": [
+            "M035",
+            "M036"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "화",
+          "similarGroup": "ㅅ"
+        },
+        {
+          "id": "C019",
+          "char": "三",
+          "reading": "석 삼",
+          "strokes": 3,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-3",
+          "materials": [
+            "M037",
+            "M038",
+            "M039"
+          ],
+          "score": 3,
+          "difficulty": 6,
+          "element": "목",
+          "similarGroup": "三"
+        },
+        {
+          "id": "C020",
+          "char": "干",
+          "reading": "방패 간",
+          "strokes": 3,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-3",
+          "materials": [
+            "M040",
+            "M041"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "금",
+          "similarGroup": "十"
+        },
+        {
+          "id": "C021",
+          "char": "土",
+          "reading": "흙 토",
+          "strokes": 3,
+          "stage": 3,
+          "part": 2,
+          "subunit": "S3-3",
+          "materials": [
+            "M042",
+            "M043"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "토",
+          "similarGroup": "十"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M029",
+          "char": "囗",
+          "name": "에울 국",
+          "stage": 3,
+          "subunit": "S3-1",
+          "element": "화",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M030",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-1",
+          "element": "화",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M031",
+          "char": "口",
+          "name": "입 구",
+          "stage": 3,
+          "subunit": "S3-1",
+          "element": "금",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M032",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-1",
+          "element": "금",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M033",
+          "char": "口",
+          "name": "입 구",
+          "stage": 3,
+          "subunit": "S3-2",
+          "element": "토",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M034",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 3,
+          "subunit": "S3-2",
+          "element": "토",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M035",
+          "char": "丷",
+          "name": "구결자 하",
+          "stage": 3,
+          "subunit": "S3-2",
+          "element": "화",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M036",
+          "char": "ㅅ",
+          "name": "시옷",
+          "stage": 3,
+          "subunit": "S3-2",
+          "element": "화",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M037",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M038",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M039",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M040",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "금",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M041",
+          "char": "十",
+          "name": "열 십",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "금",
+          "similarGroup": "十",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M042",
+          "char": "十",
+          "name": "열 십",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "토",
+          "similarGroup": "十",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M043",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 3,
+          "subunit": "S3-3",
+          "element": "토",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "part": 2,
+      "composites": [
+        {
+          "id": "C022",
+          "char": "女",
+          "reading": "여자 녀, 여자 여",
+          "strokes": 3,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-1",
+          "materials": [
+            "M044",
+            "M045",
+            "M046"
+          ],
+          "score": 3,
+          "difficulty": 6,
+          "element": "수",
+          "similarGroup": "一"
+        },
+        {
+          "id": "C023",
+          "char": "大",
+          "reading": "큰 대",
+          "strokes": 3,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-1",
+          "materials": [
+            "M047",
+            "M048"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "토",
+          "similarGroup": "人"
+        },
+        {
+          "id": "C024",
+          "char": "小",
+          "reading": "작을 소",
+          "strokes": 3,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-2",
+          "materials": [
+            "M049",
+            "M050"
+          ],
+          "score": 2,
+          "difficulty": 5,
+          "element": "수",
+          "similarGroup": "八"
+        },
+        {
+          "id": "C025",
+          "char": "寸",
+          "reading": "마디 촌",
+          "strokes": 3,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-2",
+          "materials": [
+            "M051",
+            "M052",
+            "M053"
+          ],
+          "score": 3,
+          "difficulty": 6,
+          "element": "수",
+          "similarGroup": "亅"
+        },
+        {
+          "id": "C026",
+          "char": "民",
+          "reading": "백성 민",
+          "strokes": 5,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-3",
+          "materials": [
+            "M054",
+            "M055"
+          ],
+          "score": 2,
+          "difficulty": 7,
+          "element": "금",
+          "similarGroup": "口"
+        },
+        {
+          "id": "C027",
+          "char": "外",
+          "reading": "바깥 외",
+          "strokes": 5,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-3",
+          "materials": [
+            "M056",
+            "M057"
+          ],
+          "score": 2,
+          "difficulty": 7,
+          "element": "금",
+          "similarGroup": "丨"
+        },
+        {
+          "id": "C028",
+          "char": "四",
+          "reading": "넉 사",
+          "strokes": 5,
+          "stage": 4,
+          "part": 2,
+          "subunit": "S4-3",
+          "materials": [
+            "M058",
+            "M059"
+          ],
+          "score": 2,
+          "difficulty": 7,
+          "element": "금",
+          "similarGroup": "儿"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M044",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 4,
+          "subunit": "S4-1",
+          "element": "수",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M045",
+          "char": "<",
+          "name": "구",
+          "stage": 4,
+          "subunit": "S4-1",
+          "element": "수",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M046",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 4,
+          "subunit": "S4-1",
+          "element": "수",
+          "similarGroup": "一",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M047",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 4,
+          "subunit": "S4-1",
+          "element": "토",
+          "similarGroup": "人",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M048",
+          "char": "人",
+          "name": "사람 인",
+          "stage": 4,
+          "subunit": "S4-1",
+          "element": "토",
+          "similarGroup": "人",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M049",
+          "char": "亅",
+          "name": "갈고리 궐",
+          "stage": 4,
+          "subunit": "S4-2",
+          "element": "수",
+          "similarGroup": "八",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M050",
+          "char": "八",
+          "name": "여덟 팔",
+          "stage": 4,
+          "subunit": "S4-2",
+          "element": "수",
+          "similarGroup": "八",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M051",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 4,
+          "subunit": "S4-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M052",
+          "char": "亅",
+          "name": "갈고리 궐",
+          "stage": 4,
+          "subunit": "S4-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M053",
+          "char": "丶",
+          "name": "점 주",
+          "stage": 4,
+          "subunit": "S4-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M054",
+          "char": "」",
+          "name": "낫표",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M055",
+          "char": "氏",
+          "name": "성씨 씨",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M056",
+          "char": "夕",
+          "name": "저녁 석",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "丨",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M057",
+          "char": "卜",
+          "name": "점 복",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "丨",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M058",
+          "char": "囗",
+          "name": "에울 국",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M059",
+          "char": "儿",
+          "name": "어진 사람 인",
+          "stage": 4,
+          "subunit": "S4-3",
+          "element": "금",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "part": 3,
+      "composites": [
+        {
+          "id": "C029",
+          "char": "兄",
+          "reading": "맏 형, 형 형",
+          "strokes": 5,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-1",
+          "materials": [
+            "M060",
+            "M061"
+          ],
+          "score": 2,
+          "difficulty": 7,
+          "element": "목",
+          "similarGroup": "口"
+        },
+        {
+          "id": "C030",
+          "char": "父",
+          "reading": "아버지 부",
+          "strokes": 4,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-1",
+          "materials": [
+            "M062",
+            "M063"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "금",
+          "similarGroup": "八"
+        },
+        {
+          "id": "C031",
+          "char": "六",
+          "reading": "여섯 륙, 여섯 육",
+          "strokes": 4,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-1",
+          "materials": [
+            "M064",
+            "M065"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "수",
+          "similarGroup": "八"
+        },
+        {
+          "id": "C032",
+          "char": "白",
+          "reading": "흰 백",
+          "strokes": 5,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-2",
+          "materials": [
+            "M066",
+            "M067"
+          ],
+          "score": 2,
+          "difficulty": 7,
+          "element": "금",
+          "similarGroup": "日"
+        },
+        {
+          "id": "C033",
+          "char": "木",
+          "reading": "나무 목",
+          "strokes": 4,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-2",
+          "materials": [
+            "M068",
+            "M069",
+            "M070"
+          ],
+          "score": 3,
+          "difficulty": 7,
+          "element": "목",
+          "similarGroup": "木"
+        },
+        {
+          "id": "C034",
+          "char": "年",
+          "reading": "해 년, 해 연",
+          "strokes": 6,
+          "stage": 5,
+          "part": 3,
+          "subunit": "S5-2",
+          "materials": [
+            "M071",
+            "M072"
+          ],
+          "score": 2,
+          "difficulty": 8,
+          "element": "금",
+          "similarGroup": "ㅅ"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M060",
+          "char": "口",
+          "name": "입 구",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "목",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M061",
+          "char": "儿",
+          "name": "어진 사람 인",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "목",
+          "similarGroup": "口",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M062",
+          "char": "八",
+          "name": "여덟 팔",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "금",
+          "similarGroup": "八",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M063",
+          "char": "乂",
+          "name": "벨 예",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "금",
+          "similarGroup": "八",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M064",
+          "char": "亠",
+          "name": "머리 두",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "수",
+          "similarGroup": "八",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M065",
+          "char": "八",
+          "name": "여덟 팔",
+          "stage": 5,
+          "subunit": "S5-1",
+          "element": "수",
+          "similarGroup": "八",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M066",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "금",
+          "similarGroup": "日",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M067",
+          "char": "日",
+          "name": "해 일",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "금",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M068",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "목",
+          "similarGroup": "木",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M069",
+          "char": "ㅅ",
+          "name": "시옷",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "목",
+          "similarGroup": "木",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M070",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "목",
+          "similarGroup": "木",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M071",
+          "char": "ㅅ",
+          "name": "시옷",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "금",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M072",
+          "char": "㐄",
+          "name": "걸을 과",
+          "stage": 5,
+          "subunit": "S5-2",
+          "element": "금",
+          "similarGroup": "ㅅ",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "part": 3,
+      "composites": [
+        {
+          "id": "C035",
+          "char": "五",
+          "reading": "다섯 오",
+          "strokes": 4,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-1",
+          "materials": [
+            "M073",
+            "M074"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "토",
+          "similarGroup": "二"
+        },
+        {
+          "id": "C036",
+          "char": "水",
+          "reading": "물 수",
+          "strokes": 4,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-1",
+          "materials": [
+            "M075",
+            "M076",
+            "M077"
+          ],
+          "score": 3,
+          "difficulty": 7,
+          "element": "수",
+          "similarGroup": "ㄱ"
+        },
+        {
+          "id": "C037",
+          "char": "王",
+          "reading": "임금 왕",
+          "strokes": 4,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-1",
+          "materials": [
+            "M078",
+            "M079"
+          ],
+          "score": 2,
+          "difficulty": 6,
+          "element": "토",
+          "similarGroup": "三"
+        },
+        {
+          "id": "C038",
+          "char": "月",
+          "reading": "달 월",
+          "strokes": 4,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-2",
+          "materials": [
+            "M080",
+            "M081",
+            "M082"
+          ],
+          "score": 3,
+          "difficulty": 7,
+          "element": "수",
+          "similarGroup": "亅"
+        },
+        {
+          "id": "C039",
+          "char": "長",
+          "reading": "길 장, 어른 장",
+          "strokes": 8,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-2",
+          "materials": [
+            "M083",
+            "M084"
+          ],
+          "score": 2,
+          "difficulty": 10,
+          "element": "수",
+          "similarGroup": "三"
+        },
+        {
+          "id": "C040",
+          "char": "交",
+          "reading": "사귈 교",
+          "strokes": 6,
+          "stage": 6,
+          "part": 3,
+          "subunit": "S6-2",
+          "materials": [
+            "M085",
+            "M086"
+          ],
+          "score": 2,
+          "difficulty": 8,
+          "element": "화",
+          "similarGroup": "八"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M073",
+          "char": "二",
+          "name": "둘 이",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "토",
+          "similarGroup": "二",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M074",
+          "char": "力",
+          "name": "힘 력",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "토",
+          "similarGroup": "二",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M075",
+          "char": "亅",
+          "name": "갈고리 궐",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "수",
+          "similarGroup": "ㄱ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M076",
+          "char": "ㄱ",
+          "name": "기역",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "수",
+          "similarGroup": "ㄱ",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M077",
+          "char": "卜",
+          "name": "점 복",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "수",
+          "similarGroup": "ㄱ",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M078",
+          "char": "三",
+          "name": "석 삼",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "토",
+          "similarGroup": "三",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M079",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 6,
+          "subunit": "S6-1",
+          "element": "토",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M080",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M081",
+          "char": "ㄱ",
+          "name": "기역",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M082",
+          "char": "二",
+          "name": "둘 이",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "수",
+          "similarGroup": "亅",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M083",
+          "char": "辰",
+          "name": "지지 진",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "수",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M084",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "수",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M085",
+          "char": "亠",
+          "name": "머리 두",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "화",
+          "similarGroup": "八",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M086",
+          "char": "父",
+          "name": "아버지 부",
+          "stage": 6,
+          "subunit": "S6-2",
+          "element": "화",
+          "similarGroup": "八",
+          "sourceType": "composite"
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "part": 4,
+      "composites": [
+        {
+          "id": "C041",
+          "char": "西",
+          "reading": "서녘 서",
+          "strokes": 6,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-1",
+          "materials": [
+            "M087",
+            "M088"
+          ],
+          "score": 2,
+          "difficulty": 8,
+          "element": "금",
+          "similarGroup": "囗"
+        },
+        {
+          "id": "C042",
+          "char": "軍",
+          "reading": "군사 군",
+          "strokes": 9,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-1",
+          "materials": [
+            "M089",
+            "M090"
+          ],
+          "score": 2,
+          "difficulty": 11,
+          "element": "금",
+          "similarGroup": "冖"
+        },
+        {
+          "id": "C043",
+          "char": "北",
+          "reading": "북녘 북, 배신할 배, 패배할 배",
+          "strokes": 5,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-1",
+          "materials": [
+            "M091",
+            "M092",
+            "M093"
+          ],
+          "score": 3,
+          "difficulty": 8,
+          "element": "수",
+          "similarGroup": "二"
+        },
+        {
+          "id": "C044",
+          "char": "生",
+          "reading": "날 생",
+          "strokes": 5,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-2",
+          "materials": [
+            "M094",
+            "M095",
+            "M096"
+          ],
+          "score": 3,
+          "difficulty": 8,
+          "element": "목",
+          "similarGroup": "土"
+        },
+        {
+          "id": "C045",
+          "char": "母",
+          "reading": "어머니 모",
+          "strokes": 5,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-2",
+          "materials": [
+            "M097",
+            "M098",
+            "M099"
+          ],
+          "score": 3,
+          "difficulty": 8,
+          "element": "토",
+          "similarGroup": "丶"
+        },
+        {
+          "id": "C046",
+          "char": "早",
+          "reading": "새벽 조, 아침 조, 일찍 조",
+          "strokes": 6,
+          "stage": 7,
+          "part": 4,
+          "subunit": "S7-2",
+          "materials": [
+            "M100",
+            "M101"
+          ],
+          "score": 2,
+          "difficulty": 8,
+          "element": "화",
+          "similarGroup": "日"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M087",
+          "char": "兀",
+          "name": "우뚝할 올",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "금",
+          "similarGroup": "囗",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M088",
+          "char": "囗",
+          "name": "에울 국",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "금",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M089",
+          "char": "冖",
+          "name": "덮을 멱",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "금",
+          "similarGroup": "冖",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M090",
+          "char": "車",
+          "name": "수레 차, 거",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "금",
+          "similarGroup": "冖",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M091",
+          "char": "二",
+          "name": "둘 이",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "수",
+          "similarGroup": "二",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M092",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "수",
+          "similarGroup": "二",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M093",
+          "char": "匕",
+          "name": "비수 비",
+          "stage": 7,
+          "subunit": "S7-1",
+          "element": "수",
+          "similarGroup": "二",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M094",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "목",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M095",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "목",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M096",
+          "char": "土",
+          "name": "흙 토",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "목",
+          "similarGroup": "土",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M097",
+          "char": "女",
+          "name": "여자 녀",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "토",
+          "similarGroup": "丶",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M098",
+          "char": "丶",
+          "name": "점 주",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "토",
+          "similarGroup": "丶",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M099",
+          "char": "丶",
+          "name": "점 주",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "토",
+          "similarGroup": "丶",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M100",
+          "char": "日",
+          "name": "해 일",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "화",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M101",
+          "char": "十",
+          "name": "열 십",
+          "stage": 7,
+          "subunit": "S7-2",
+          "element": "화",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "part": 4,
+      "composites": [
+        {
+          "id": "C047",
+          "char": "弟",
+          "reading": "아우 제",
+          "strokes": 7,
+          "stage": 8,
+          "part": 4,
+          "subunit": "S8-1",
+          "materials": [
+            "M102",
+            "M103",
+            "M104",
+            "M105"
+          ],
+          "score": 4,
+          "difficulty": 11,
+          "element": "토",
+          "similarGroup": "丷"
+        },
+        {
+          "id": "C048",
+          "char": "東",
+          "reading": "동녘 동",
+          "strokes": 8,
+          "stage": 8,
+          "part": 4,
+          "subunit": "S8-1",
+          "materials": [
+            "M106",
+            "M107"
+          ],
+          "score": 2,
+          "difficulty": 10,
+          "element": "목",
+          "similarGroup": "日"
+        },
+        {
+          "id": "C049",
+          "char": "至",
+          "reading": "이를 지",
+          "strokes": 6,
+          "stage": 8,
+          "part": 4,
+          "subunit": "S8-1",
+          "materials": [
+            "M108",
+            "M109",
+            "M110"
+          ],
+          "score": 3,
+          "difficulty": 9,
+          "element": "토",
+          "similarGroup": "土"
+        },
+        {
+          "id": "C050",
+          "char": "禺",
+          "reading": "어리석을 옹",
+          "strokes": 9,
+          "stage": 8,
+          "part": 4,
+          "subunit": "S8-2",
+          "materials": [
+            "M111",
+            "M112",
+            "M113"
+          ],
+          "score": 3,
+          "difficulty": 12,
+          "element": "금",
+          "similarGroup": "冂"
+        },
+        {
+          "id": "C051",
+          "char": "門",
+          "reading": "문 문",
+          "strokes": 8,
+          "stage": 8,
+          "part": 4,
+          "subunit": "S8-2",
+          "materials": [
+            "M114",
+            "M115",
+            "M116",
+            "M117"
+          ],
+          "score": 4,
+          "difficulty": 12,
+          "element": "금",
+          "similarGroup": "亅"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M102",
+          "char": "丷",
+          "name": "구결자 하",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "丷",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M103",
+          "char": "弓",
+          "name": "활 궁",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "丷",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M104",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "丷",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M105",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "丷",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M106",
+          "char": "木",
+          "name": "나무 목",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "목",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M107",
+          "char": "日",
+          "name": "해 일",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "목",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M108",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M109",
+          "char": "厶",
+          "name": "사사로울 사",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M110",
+          "char": "土",
+          "name": "흙 토",
+          "stage": 8,
+          "subunit": "S8-1",
+          "element": "토",
+          "similarGroup": "土",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M111",
+          "char": "曰",
+          "name": "말할 왈",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "冂",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M112",
+          "char": "冂",
+          "name": "멀 경",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "冂",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M113",
+          "char": "厶",
+          "name": "사사로울 사",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "冂",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M114",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M115",
+          "char": "彐",
+          "name": "돼지머리 계",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M116",
+          "char": "ㅌ",
+          "name": "티읕",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M117",
+          "char": "亅",
+          "name": "갈고리 궐",
+          "stage": 8,
+          "subunit": "S8-2",
+          "element": "금",
+          "similarGroup": "亅",
+          "sourceType": "atom"
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "part": 5,
+      "composites": [
+        {
+          "id": "C052",
+          "char": "先",
+          "reading": "먼저 선",
+          "strokes": 6,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-1",
+          "materials": [
+            "M118",
+            "M119",
+            "M120"
+          ],
+          "score": 3,
+          "difficulty": 9,
+          "element": "수",
+          "similarGroup": "儿"
+        },
+        {
+          "id": "C053",
+          "char": "國",
+          "reading": "나라 국",
+          "strokes": 11,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-1",
+          "materials": [
+            "M121",
+            "M122",
+            "M123",
+            "M124"
+          ],
+          "score": 4,
+          "difficulty": 15,
+          "element": "토",
+          "similarGroup": "囗"
+        },
+        {
+          "id": "C054",
+          "char": "靑",
+          "reading": "푸를 청",
+          "strokes": 8,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-1",
+          "materials": [
+            "M125",
+            "M126",
+            "M127"
+          ],
+          "score": 3,
+          "difficulty": 11,
+          "element": "목",
+          "similarGroup": "三"
+        },
+        {
+          "id": "C055",
+          "char": "金",
+          "reading": "쇠 금, 금 금",
+          "strokes": 8,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-2",
+          "materials": [
+            "M128",
+            "M129",
+            "M130",
+            "M131"
+          ],
+          "score": 4,
+          "difficulty": 12,
+          "element": "금",
+          "similarGroup": "土"
+        },
+        {
+          "id": "C056",
+          "char": "室",
+          "reading": "집 실",
+          "strokes": 9,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-2",
+          "materials": [
+            "M132",
+            "M133"
+          ],
+          "score": 2,
+          "difficulty": 11,
+          "element": "토",
+          "similarGroup": "土"
+        },
+        {
+          "id": "C057",
+          "char": "萬",
+          "reading": "일만 만",
+          "strokes": 13,
+          "stage": 9,
+          "part": 5,
+          "subunit": "S9-2",
+          "materials": [
+            "M134",
+            "M135"
+          ],
+          "score": 2,
+          "difficulty": 15,
+          "element": "목",
+          "similarGroup": "冂"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M118",
+          "char": "丿",
+          "name": "삐침 별",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "수",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M119",
+          "char": "土",
+          "name": "흙 토",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "수",
+          "similarGroup": "儿",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M120",
+          "char": "儿",
+          "name": "어진 사람 인",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "수",
+          "similarGroup": "儿",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M121",
+          "char": "囗",
+          "name": "에울 국",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "토",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M122",
+          "char": "戈",
+          "name": "창 과",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "토",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M123",
+          "char": "口",
+          "name": "입 구",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "토",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M124",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "토",
+          "similarGroup": "囗",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M125",
+          "char": "三",
+          "name": "석 삼",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M126",
+          "char": "丨",
+          "name": "뚫을 곤",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M127",
+          "char": "円",
+          "name": "둥글 엔 / 화폐단위 엔",
+          "stage": 9,
+          "subunit": "S9-1",
+          "element": "목",
+          "similarGroup": "三",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M128",
+          "char": "亼",
+          "name": "모을 집",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "금",
+          "similarGroup": "土",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M129",
+          "char": "十",
+          "name": "열 십",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "금",
+          "similarGroup": "土",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M130",
+          "char": "丷",
+          "name": "구결자 하",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "금",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M131",
+          "char": "一",
+          "name": "하나 일",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "금",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M132",
+          "char": "宀",
+          "name": "집 면",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "토",
+          "similarGroup": "土",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M133",
+          "char": "至",
+          "name": "이를 지",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "토",
+          "similarGroup": "土",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M134",
+          "char": "艹",
+          "name": "풀 초",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "목",
+          "similarGroup": "冂",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M135",
+          "char": "禺",
+          "name": "어리석을 옹",
+          "stage": 9,
+          "subunit": "S9-2",
+          "element": "목",
+          "similarGroup": "冂",
+          "sourceType": "composite"
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "part": 5,
+      "composites": [
+        {
+          "id": "C058",
+          "char": "敎",
+          "reading": "가르칠 교",
+          "strokes": 11,
+          "stage": 10,
+          "part": 5,
+          "subunit": "S10-1",
+          "materials": [
+            "M136",
+            "M137",
+            "M138"
+          ],
+          "score": 3,
+          "difficulty": 14,
+          "element": "화",
+          "similarGroup": "爻"
+        },
+        {
+          "id": "C059",
+          "char": "南",
+          "reading": "남녘 남",
+          "strokes": 9,
+          "stage": 10,
+          "part": 5,
+          "subunit": "S10-1",
+          "materials": [
+            "M139",
+            "M140",
+            "M141",
+            "M142"
+          ],
+          "score": 4,
+          "difficulty": 13,
+          "element": "화",
+          "similarGroup": "十"
+        },
+        {
+          "id": "C060",
+          "char": "校",
+          "reading": "학교 교",
+          "strokes": 10,
+          "stage": 10,
+          "part": 5,
+          "subunit": "S10-2",
+          "materials": [
+            "M143",
+            "M144"
+          ],
+          "score": 2,
+          "difficulty": 12,
+          "element": "화",
+          "similarGroup": "木"
+        },
+        {
+          "id": "C061",
+          "char": "韓",
+          "reading": "한국 한",
+          "strokes": 17,
+          "stage": 10,
+          "part": 5,
+          "subunit": "S10-2",
+          "materials": [
+            "M145",
+            "M146",
+            "M147"
+          ],
+          "score": 3,
+          "difficulty": 20,
+          "element": "화",
+          "similarGroup": "日"
+        },
+        {
+          "id": "C062",
+          "char": "學",
+          "reading": "배울 학",
+          "strokes": 16,
+          "stage": 10,
+          "part": 5,
+          "subunit": "S10-2",
+          "materials": [
+            "M148",
+            "M149",
+            "M150",
+            "M151"
+          ],
+          "score": 4,
+          "difficulty": 20,
+          "element": "수",
+          "similarGroup": "爻"
+        }
+      ],
+      "shapes": [
+        {
+          "id": "M136",
+          "char": "爻",
+          "name": "점괘 효",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "爻",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M137",
+          "char": "子",
+          "name": "아들 자",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M138",
+          "char": "攵",
+          "name": "칠 복",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "爻",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M139",
+          "char": "十",
+          "name": "열 십",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "十",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M140",
+          "char": "冂",
+          "name": "멀 경",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M141",
+          "char": "丷",
+          "name": "구결자 하",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "十",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M142",
+          "char": "干",
+          "name": "방패 간",
+          "stage": 10,
+          "subunit": "S10-1",
+          "element": "화",
+          "similarGroup": "十",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M143",
+          "char": "木",
+          "name": "나무 목",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "화",
+          "similarGroup": "木",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M144",
+          "char": "交",
+          "name": "사귈 교",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "화",
+          "similarGroup": "木",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M145",
+          "char": "十",
+          "name": "열 십",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "화",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M146",
+          "char": "早",
+          "name": "아침 조, 일찍 조",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "화",
+          "similarGroup": "日",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M147",
+          "char": "韋",
+          "name": "다룸가죽 위",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "화",
+          "similarGroup": "日",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M148",
+          "char": "臼",
+          "name": "절구 구",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M149",
+          "char": "爻",
+          "name": "점괘 효",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "composite"
+        },
+        {
+          "id": "M150",
+          "char": "冖",
+          "name": "덮을 멱",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        },
+        {
+          "id": "M151",
+          "char": "子",
+          "name": "아들 자",
+          "stage": 10,
+          "subunit": "S10-2",
+          "element": "수",
+          "similarGroup": "爻",
+          "sourceType": "atom"
+        }
+      ]
+    }
+  ]
+}
