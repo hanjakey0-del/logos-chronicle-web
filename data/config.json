@@ -1,13 +1,19 @@
 {
   "version": "v1.0.0",
+  "buildVersion": "2026.11.20-test",
   "modeDisplayName": "도전모드",
   "homeUrl": "https://hanjakey.hdmedi.kr/?from=game_end",
+  "surveyUrl": "https://hanjakey.hdmedi.kr/?from=game_survey",
+  "enableEventTracking": true,
+  "eventApiUrl": "/api/game-events",
   "playStageCount": 1,
   "startCountdownSec": 3,
   "simultaneousWindowMs": 300,
   "stageTimeoutMultiplier": 1.5,
+  "hintEnabled": true,
+  "hintDelaySec": 4.0,
   "hintToAiCompleteDelaySec": 8.0,
-  "toastDurationMs": 1500,
+  "toastDurationMs": 2500,
   "scorePopupDurationMs": 500,
   "reduceMotion": false,
   "soundEnabled": true,
@@ -39,7 +45,8 @@
     "registerDesc": "연성가로 등록할 이름을 정해 주세요.",
     "registerNote": "이름은 이 기기에만 저장돼요.",
     "titleFooter": "한자키 · 게임 속 설정이며 실제 시험·자격과 무관합니다",
-    "rules": "· 가운데 한자의 재료 카드를 격자에서 집어 모아요.\n· 재료가 다 모이면 바로 연성되고, 먼저 완성한 쪽이 재료 수만큼 점수를 얻어요.\n· 내 손패 칸에 담긴 카드를 다시 누르거나 바닥 격자의 해당 카드를 다시 누르면 취소돼요. 벌점은 없어요.\n· 재료를 잘못 모으면 손패가 찬 채로 멈춰요. 카드를 눌러 취소한 뒤 다시 집어요.\n· 같은 글자가 여러 장이면 어느 장을 집어도 돼요.\n· 스테이지가 끝나면 최종 점수로 승패를 가려요."
+    "rules": "· 가운데 한자의 재료 카드를 격자에서 집어 모아요.\n· 재료가 다 모이면 바로 연성되고, 먼저 완성한 쪽이 재료 수만큼 점수를 얻어요.\n· 내 손패 칸에 담긴 카드를 다시 누르거나 바닥 격자의 해당 카드를 다시 누르면 취소돼요. 벌점은 없어요.\n· 재료를 잘못 모으면 손패가 찬 채로 멈춰요. 카드를 눌러 취소한 뒤 다시 집어요.\n· 같은 글자가 여러 장이면 어느 장을 집어도 돼요.\n· 스테이지가 끝나면 최종 점수로 승패를 가려요.",
+    "surveyButton": "체험 후 설문"
   },
   "difficultyLabels": {
     "easy": "쉬움",
